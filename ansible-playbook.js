@@ -12,7 +12,7 @@
   "use strict";
 
 CodeMirror.defineMode("ansible-playbook", function() {
-  // Define your custom styles for 'ok', 'changed', and 'fatal'
+  // Define your custom styles for 'ok', 'changed', 'skip' and 'fatal'
   var style = CodeMirror.getMode();
 
   // Create a function to parse and style the text
