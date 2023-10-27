@@ -19,4 +19,5 @@ import './ansible-playbook.js'; // 引入自定义 CodeMirror 模式
 ```
 
 ### 样式图
-![](https://github.com/zhuqifei1994/ansible-codemirror/ansible-playbook.png)
+
+![](./img/ansible-playbook.png)
