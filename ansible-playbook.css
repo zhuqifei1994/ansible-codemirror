@@ -1,0 +1,37 @@
+/* ansible-playbook.css */
+
+/* Set the background color to black */
+.cm-s-ansible-playbook {
+  background: black; /* 设置背景颜色为黑色 */
+  color: white; /* 设置整体字体颜色为白色 */
+}
+
+/* ok (success) style */
+.cm-s-ansible-playbook .cm-ok {
+  color: green; /* 设置 'success' 的颜色绿色 */
+}
+
+/* changed (warning) style */
+.cm-s-ansible-playbook .cm-changed {
+  color: orange; /* 设置 'warning' 的颜色橘色 */
+}
+
+/* fatal (error) style */
+.cm-s-ansible-playbook .cm-fatal {
+  color: red; /* 设置 'error' 的颜色红色 */
+}
+
+/* Style for 'skipping' */
+.cm-s-ansible-playbook .cm-skipping {
+  color: cyan; /* 设置 'skipping' 的颜色为青色 */
+}
+
+/* Style for 'debug' */
+.cm-s-ansible-playbook .cm-debug {
+  color: darkgray; /* 设置 'debug' 的颜色为暗灰色 */
+}
+
+/* Style for 'warn' */
+.cm-s-ansible-playbook .cm-warn {
+  color: purple; /* 设置 'warn' 的颜色为紫色 */
+}
